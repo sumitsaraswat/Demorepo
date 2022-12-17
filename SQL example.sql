@@ -9,6 +9,7 @@ Create table sample (columna string)
 -- COMMAND ----------
 
 insert into sample values ("john")
+insert into sample values ("Doe")
 
 -- COMMAND ----------
 
